@@ -40,11 +40,6 @@
 
 ###
 
-<h2 align="left">Social Links</h2>
-
-###
-
-
 <div align="left">
   <a href="https://linktr.ee/parthkhokhar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
@@ -57,6 +52,9 @@
   </a>
   <a href="https://www.instagram.com/pskhokhar25/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/parthkhokhar61" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
 
