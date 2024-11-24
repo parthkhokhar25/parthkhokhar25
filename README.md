@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">My name is Parth and I'm a Full Satck Web Developer from Rajkot,Gujarat</h5>
+<h3 align="center">My name is Parth and I'm a Full Satck Web Developer from Rajkot,Gujarat</h3>
 
 ###
 
